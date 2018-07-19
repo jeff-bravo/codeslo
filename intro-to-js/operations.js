@@ -1,0 +1,10 @@
+console.log(1 + 2 + 3);
+console.log(5 % 2);
+let moduloTest01 = 5 % 2;
+let moduloTest02 = 10 % 2;
+let moduloTest03 = 15 % 10;
+let moduloTest04 = 100 % 99;
+let moduloTest05 = 6 % 4;
+let moduloTest06 = 16 % 6;
+console.log(moduloTest01);
+console.log(moduloTest02);

@@ -1,0 +1,7 @@
+function timesTen(num){
+    return num * 10;
+}
+
+function multiply(mum1,num2){
+    return num1 * num2
+}
